@@ -25,3 +25,5 @@ https://takehara-photo.com/software/photoalbum/
 1.0.5 :2019-12-07
 <br>
 1.0.6 :2019-12-07
+<br>
+1.0.6 :2020-06-04
